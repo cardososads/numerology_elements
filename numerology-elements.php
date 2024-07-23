@@ -13,16 +13,14 @@
  * @package           Numerology_Elements
  *
  * @wordpress-plugin
- * Plugin Name:       WordPress Plugin Boilerplate
- * Plugin URI:        http://example.com/numerology-elements-uri/
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.0.0
- * Author:            Your Name or Your Company
- * Author URI:        http://example.com/
- * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       numerology-elements
- * Domain Path:       /languages
+ * Plugin Name: Numerology Elements
+ * Plugin URI: https://github.com/cardososads/numerology_elements
+ * Description: Um plugin para elementos de numerologia.
+ * Version: 1.0.0
+ * Author: Wesley Alves Cardoso
+ * Author URI: https://github.com/cardososads/numerology_elements
+ * License: GPL-2.0+
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  */
 
 // If this file is called directly, abort.
